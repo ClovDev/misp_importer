@@ -1,0 +1,13 @@
+log_file: 'log/misp_importer.log'
+
+
+download_path_urlhaus: 'Downloads/URLHaus/'
+download_path_feodo: 'Downloads/Feodo/'
+download_path_azorult: 'Downloads/Azorult/'
+
+misp_url: 'MISP_URL'
+misp_auth_key: 'MISP_API_URL'
+
+feodo_url: "https://feodotracker.abuse.ch/downloads/ipblocklist.csv"
+urlhaus_url: "https://urlhaus.abuse.ch/downloads/csv/"
+azorult_url: "https://azorult-tracker.net/api/last-data"
