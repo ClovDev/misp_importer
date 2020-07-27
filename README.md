@@ -1,6 +1,6 @@
 # MISP importer
 
-A lot of open source threat feeds have a lot of context added beside the IOCs. We wanted to have that context in MISP including tags, online/offline status etc. These script takes care of that in a quick and dirty way, so do not use in production systems without some better coding adjustments.
+Some open source threat feeds have a lot of context added beside the IOCs. We wanted to have that context in MISP including tags and online/offline status. These script parse the feeds below and add the IOCs with extra context to MISP in a quick and dirty way. Not for use in production systems without some better coding.
 
 ## Feeds
 
